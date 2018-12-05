@@ -13,7 +13,7 @@
         <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/art/slider-bg1.jpg" alt=""></li>
         <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/art/slider-bg2.jpg" alt=""></li>
         <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/art/slider-bg3.jpg" alt=""></li>
-		<li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/art/slider-bg4.jpg" alt=""></li>
+		    <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/art/slider-bg4.jpg" alt=""></li>
       </ul>
       <div class="tp-bannertimer tp-bottom"></div>
     </div>

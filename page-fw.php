@@ -12,7 +12,6 @@
         <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/fw/slider-1.jpg" alt=""></li>
         <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/fw/slider-2.jpg" alt=""></li>
         <li data-transition="fade"><img src="<?php echo get_bloginfo( 'template_directory' );?>/style/images/fw/slider-3.jpg" alt=""></li>
-		 
       </ul>
       <div class="tp-bannertimer tp-bottom"></div>
     </div>
